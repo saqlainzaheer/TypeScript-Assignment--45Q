@@ -5,7 +5,7 @@ const personName = "Eric";
 const personalMessage = `Hello ${personName}, would you like to learn some Python today?`;
 console.log("Question 1:");
 console.log(personalMessage);
-//question 3
+//question -3
 const fullName = "mr. Saqlain zaheer";
 const lowercaseName = fullName.toLowerCase();
 const uppercaseName = fullName.toUpperCase();
