@@ -28,7 +28,7 @@ const indexOfCanceledGuest = guestList.indexOf(canceledGuest);
 if (indexOfCanceledGuest !== -1) {
   guestList[indexOfCanceledGuest] = newGuest;
   console.log(
-    `\n${canceledGuest} can't make it. Inviting ${newGuest} instead.`
+    `\n${canceledGuest} can't make it  Inviting ${newGuest} instead.`
   );
 }
 
