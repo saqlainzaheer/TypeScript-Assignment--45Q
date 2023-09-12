@@ -17,7 +17,7 @@ const guestList: string[] = ["ali", "hamza", "abdullah"];
 console.log("\nDinner invitations:");
 
 for (const guest of guestList) {
-  console.log(`Dear ${guest}, you are invited to dinner at my place.`);
+  console.log(`Dear ${guest}, you ar invited to dinner .`);
 }
 // Question 15
 const canceledGuest = "akbar";
